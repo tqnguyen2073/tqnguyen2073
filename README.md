@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there 👋, I'm Quang Thang
+An IT student driven by a fervent passion for problem-solving and a profound interest in mathematics and physics. As I navigate through my academic journey, I find myself captivated by the intricate challenges that technology presents. With a clear vision of my future, I aspire to become a software engineer. I thrive on the complexities of coding and the satisfaction of crafting solutions to real-world problems. With each hurdle I overcome, I am one step closer to realizing my goal of making meaningful contributions in the field of software engineering.
 
+
+- 🔭 I’m currently working on school projects
+- 🌱 I’m currently learning Data Structure and Algorithm
+- ⚡ Fun fact: Facts are fun
+- 📫 How to reach me: tqnguyen2073@gmail.com
+
+- 
 <!--
 **tqnguyen2073/tqnguyen2073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
