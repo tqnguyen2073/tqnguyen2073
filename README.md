@@ -7,7 +7,8 @@ An IT student driven by a fervent passion for problem-solving and a profound int
 - ⚡ Fun fact: Facts are fun
 - 📫 How to reach me: tqnguyen2073@gmail.com
 
-- 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tqnguyen2073)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tqnguyen2073/tqnguyen2073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
