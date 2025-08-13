@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Quang Thang
-An IT student driven by a fervent passion for problem-solving and a profound interest in mathematics and physics. As I navigate through my academic journey, I find myself captivated by the intricate challenges that technology presents. With a clear vision of my future, I aspire to become a software engineer. I thrive on the complexities of coding and the satisfaction of crafting solutions to real-world problems. With each hurdle I overcome, I am one step closer to realizing my goal of making meaningful contributions in the field of software engineering.
 
+### Just a creator at heart, striving to build things that make life easier
 
 - 🔭 I’m currently working on company projects
 - 🌱 I’m currently learning a lot 
