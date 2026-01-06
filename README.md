@@ -45,6 +45,6 @@ I value clean code, system reliability, CI/CD, and developer experience
 
 ## Contact
 
-- GitHub: [tqnguyen2073](https://github.com/tqnguyen2073)
+- Linkedln: [tqnguyen2073]([https://www.linkedin.com/in/tqnguyen2073])
 - Email: tqnguyen2073@gmail.com
 
