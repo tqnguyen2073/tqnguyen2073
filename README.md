@@ -1,9 +1,9 @@
 # About Me
 
-Hi, I'm Quang Thang (Victor)
+Hi, I'm Victor
 
-Backend-focused software developer with Java, also experienced in TypeScript/JavaScript  
-I value clean code, system reliability, CI/CD, and developer experience
+To see it, to learn it, to master it all
+
 
 ## Core Stack
 <!-- Stack badges -->
