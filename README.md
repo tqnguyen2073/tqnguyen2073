@@ -2,9 +2,6 @@
 
 Hi, I'm Victor
 
-To see it, to learn it, to master it all
-
-
 ## Core Stack
 <!-- Stack badges -->
 [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
